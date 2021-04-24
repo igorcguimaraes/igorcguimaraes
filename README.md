@@ -1,6 +1,6 @@
-### Hi there 👋
+### Olááá! 👋 Bem vindo ao meu perfil / Welcome to my profile
 My name is Igor Cardoso Guimarães; I am 34 years old, and hold a bachelor degree in Mechanical Engineering.
-[![Linkedin Badge](https://www.linkedin.com/in/igorcguimaraes/)
+
 
 
 
