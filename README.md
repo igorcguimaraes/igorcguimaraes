@@ -1,8 +1,9 @@
 ### Olááá! 👋 Bem vindo ao meu perfil / Welcome to my profile
 My name is Igor...<br>
 🎓 I graduated in a public American High School in Kent-Ohio 2004/2005<br>
-🔩 I hold a bachelor degree in Mechanical Engineering. <br>
+🔩 I hold a bachelor degree in Mechanical Engineering - Universidade Católica de Petrópolis. <br>
 💻 I work for Petrobras in Brazil 
+📚 I'm currently learning HTML, CSS n' JavaScript
 
 
 
