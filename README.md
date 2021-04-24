@@ -2,7 +2,7 @@
 My name is Igor...<br>
 🎓 I graduated in a public American High School in Kent-Ohio 2004/2005<br>
 🔩 I hold a bachelor degree in Mechanical Engineering - Universidade Católica de Petrópolis. <br>
-💻 I work for Petrobras in Brazil 
+💻 I work for Petrobras in Brazil <br>
 📚 I'm currently learning HTML, CSS n' JavaScript
 
 
