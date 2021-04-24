@@ -1,7 +1,7 @@
 ### Olááá! 👋 Bem vindo ao meu perfil / Welcome to my profile
-My name is Igor...
-I graduated in a public American High School in 2004/2005
-I hold a bachelor degree in Mechanical Engineering.
+My name is Igor...<br>
+I graduated in a public American High School in 2004/2005 <br>
+I hold a bachelor degree in Mechanical Engineering. <br>
 I work for Petrobras in Brazil 
 
 
