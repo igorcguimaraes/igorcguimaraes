@@ -1,5 +1,8 @@
 ### Olááá! 👋 Bem vindo ao meu perfil / Welcome to my profile
-My name is Igor Cardoso Guimarães; I am 34 years old, and hold a bachelor degree in Mechanical Engineering.
+My name is Igor...
+I graduated in a public American High School in 2004/2005
+I hold a bachelor degree in Mechanical Engineering.
+I work for Petrobras in Brazil 
 
 
 
